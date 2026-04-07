@@ -234,16 +234,6 @@ The Initial Triage Agent is governed by strict architecture guardrails:
 
 •  Deterministic incident assessment in Security Copilot chat
 
-# Solution Insights: Agent Workflow
-![image](https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-IMAGE-LINK)
-
-# Additional Notes
-
-•  The agent is optimized for deterministic, evidence-based, and audit-friendly SOC triage.
-
-•  Historical incidents are used only as a bounded supporting signal and never as standalone proof of maliciousness.
-
-•  Closed or resolved incidents are still supported and can be analyzed.
 
 •  The agent is suitable for production environments where safe, read-only investigation support is required.
 
